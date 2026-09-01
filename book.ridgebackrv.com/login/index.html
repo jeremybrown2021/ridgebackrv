@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign In to My Account | Ridgeback RV Park</title>
+  <meta name="description" content="Sign in to your Ridgeback RV Park account to manage reservations, view invoices and update your rig and payment details.">
+  <meta name="author" content="Ridgeback RV">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sign In to My Account | Ridgeback RV Park">
+  <meta property="og:description" content="Access your Ridgeback RV Park bookings, invoices and stay preferences in one place.">
+  <meta property="og:url" content="https://book.ridgebackrv.com/login/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://book.ridgebackrv.com/login/">
+  <link rel="icon" href="/media/icon_hu272591282444874624.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&amp;family=Manrope:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script defer src="/js/site.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="Ridgeback RV booking home">
+        <img src="/media/ridgebackrv-logo.png" alt="">
+      </a>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="/">Home</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/relax/">Amenities</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <a class="cart-link" href="/quick-order/" aria-label="Open booking">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 4h2l2.2 9.1a2 2 0 0 0 1.95 1.53h7.96a2 2 0 0 0 1.95-1.55L20.5 7H6.1M9 20a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm8 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/></svg>
+        </a>
+        <a class="account-link" href="/login/?back=my-account" aria-current="page">Sign In</a>
+        <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-controls="mobile-navigation" aria-expanded="false" data-menu-toggle>
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <nav class="mobile-nav" id="mobile-navigation" aria-label="Mobile navigation" data-mobile-nav>
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/relax/">Amenities</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a>
+    </nav>
+  </header>
+
+  <main class="inner-main" id="main-content">
+    <div class="container login-layout">
+      <div class="login-copy">
+        <p class="eyebrow" data-portal-eyebrow>Guest Portal</p>
+        <h1>Welcome back to Ridgeback.</h1>
+        <p class="section-copy">Sign in to review upcoming stays, keep your contact and rig details current, and move through checkout faster.</p>
+        <ul class="benefit-list">
+          <li>View upcoming and previous reservations</li>
+          <li>Prefill guest details during checkout</li>
+          <li>Keep contact and RV information current</li>
+          <li>Protect your account with expiring sessions</li>
+        </ul>
+      </div>
+
+      <div class="surface-card auth-card" data-auth-card>
+        <div class="tabs" role="tablist" aria-label="Account options" data-auth-tabs>
+          <button class="tab is-active" type="button" role="tab" aria-selected="true" data-auth-mode="signin">Sign in</button>
+          <button class="tab" type="button" role="tab" aria-selected="false" data-auth-mode="register">Create account</button>
+        </div>
+        <form class="auth-form" data-auth-form novalidate>
+          <p class="auth-mode-copy" data-auth-mode-copy hidden></p>
+          <input class="form-control" type="text" name="fullName" placeholder="Full name" aria-label="Full name" autocomplete="name" minlength="2" maxlength="120" data-register-field hidden>
+          <input class="form-control" type="email" name="email" placeholder="Email address" aria-label="Email address" autocomplete="email" maxlength="254" required>
+          <input class="form-control" type="password" name="password" placeholder="Password" aria-label="Password" autocomplete="current-password" minlength="8" maxlength="128" required data-password-field>
+          <input class="form-control" type="password" name="confirmPassword" placeholder="Confirm password" aria-label="Confirm password" autocomplete="new-password" minlength="8" maxlength="128" required data-register-password-confirm hidden>
+          <div class="auth-options" data-signin-options>
+            <label class="checkbox-label"><input type="checkbox" name="remember"> Keep me signed in</label>
+            <button class="text-link link-button" type="button" data-auth-forgot>Forgot password?</button>
+          </div>
+          <button class="btn btn-primary btn-block" type="submit" data-auth-submit>Sign In</button>
+          <button class="text-link link-button auth-back" type="button" data-auth-back hidden>Back to sign in</button>
+          <p class="auth-message" role="status" aria-live="polite" data-auth-message hidden></p>
+          <div class="auth-reset-link" data-auth-reset-link hidden></div>
+        </form>
+        <p class="auth-footer">Booking as a guest? Head straight to <a class="text-link" href="/quick-order/">Quick Order</a> &mdash; no account required.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="footer-brand display">
+          <img src="/media/ridgebackrv-logo.png" alt="">
+        </div>
+        <p class="footer-copy">An urban RV resort in the heart of Houston &mdash; full hookups, gated access, resort comforts.</p>
+        <a class="footer-link main-site-link" href="https://staging.ridgebackrv.hiqain.com/">staging.ridgebackrv.hiqain.com</a>
+      </div>
+      <div>
+        <p class="eyebrow">Explore</p>
+        <ul class="footer-list">
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/#amenities">Amenities</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="eyebrow">Visit</p>
+        <p class="visit-copy">1663 Campbell Road<br>Houston, TX 77055<br><a class="footer-link" href="tel:+12814135064">+1 (281) 413-5064</a></p>
+      </div>
+    </div>
+    <div class="container footer-bottom">&copy; <span data-year></span> Ridgeback RV Park. All rights reserved.</div>
+  </footer>
+</body>
+</html>

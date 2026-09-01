@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Account | Ridgeback RV Park</title>
+  <meta name="description" content="Manage your Ridgeback RV Park profile and review reservations.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/media/icon_hu272591282444874624.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&amp;family=Manrope:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script defer src="/js/site.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="Ridgeback RV booking home">
+        <img src="/media/ridgebackrv-logo.png" alt="">
+      </a>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="/">Book a Stay</a>
+        <a class="nav-link" href="/quick-order/">Quick Order</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/">Main Site</a>
+      </nav>
+      <div class="header-actions">
+        <a class="account-link" href="/account/" aria-current="page">My Account</a>
+        <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-controls="mobile-navigation" aria-expanded="false" data-menu-toggle><span></span><span></span><span></span></button>
+      </div>
+    </div>
+    <nav class="mobile-nav" id="mobile-navigation" aria-label="Mobile navigation" data-mobile-nav>
+      <a class="nav-link" href="/">Book a Stay</a>
+      <a class="nav-link" href="/quick-order/">Quick Order</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/">Main Site</a>
+    </nav>
+  </header>
+  <main class="inner-main account-main" id="main-content" data-account-page>
+    <div class="container">
+      <div class="account-heading">
+        <div>
+          <p class="eyebrow">Guest account</p>
+          <h1>Welcome, <span data-account-name>traveler</span>.</h1>
+          <p class="section-copy" data-account-email></p>
+        </div>
+        <button class="btn btn-ghost account-logout" type="button" data-account-logout>Sign Out</button>
+      </div>
+      <p class="auth-message account-page-message" role="status" aria-live="polite" data-account-message hidden></p>
+      <div class="account-grid">
+        <section class="surface-card account-panel account-reservations-panel">
+          <div class="account-panel-heading">
+            <div><p class="eyebrow">Your stays</p><h2>Reservations</h2></div>
+            <a class="btn btn-primary" href="/">Book Another Stay</a>
+          </div>
+          <div class="reservation-list" data-reservation-list><p class="account-loading">Loading reservations&hellip;</p></div>
+        </section>
+        <div class="account-sidebar">
+          <section class="surface-card account-panel">
+            <p class="eyebrow">Saved details</p>
+            <h2>Profile</h2>
+            <form class="account-form" data-profile-form novalidate>
+              <label><span class="field-label">Full name</span><input class="form-control" type="text" name="fullName" autocomplete="name" minlength="2" maxlength="120" required></label>
+              <label><span class="field-label">Email</span><input class="form-control" type="email" name="email" autocomplete="email" readonly></label>
+              <label><span class="field-label">Phone</span><input class="form-control" type="tel" name="phone" autocomplete="tel" maxlength="30"></label>
+              <label><span class="field-label">RV details</span><input class="form-control" type="text" name="rvDetails" placeholder="Example: 34 ft fifth wheel" maxlength="160"></label>
+              <button class="btn btn-primary" type="submit">Save Profile</button>
+              <p class="auth-message" role="status" aria-live="polite" data-profile-message hidden></p>
+            </form>
+          </section>
+          <section class="surface-card account-panel">
+            <p class="eyebrow">Account security</p>
+            <h2>Change Password</h2>
+            <form class="account-form" data-change-password-form novalidate>
+              <input class="form-control" type="password" name="currentPassword" placeholder="Current password" autocomplete="current-password" required>
+              <input class="form-control" type="password" name="newPassword" placeholder="New password" autocomplete="new-password" minlength="8" maxlength="128" required>
+              <input class="form-control" type="password" name="confirmPassword" placeholder="Confirm new password" autocomplete="new-password" minlength="8" maxlength="128" required>
+              <button class="btn btn-primary" type="submit">Update Password</button>
+              <p class="auth-message" role="status" aria-live="polite" data-password-message hidden></p>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="container footer-bottom">&copy; <span data-year></span> Ridgeback RV Park. All rights reserved.</div>
+  </footer>
+</body>
+</html>

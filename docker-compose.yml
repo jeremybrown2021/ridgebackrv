@@ -1,0 +1,87 @@
+name: ridgeback-rv
+
+services:
+  main-site:
+    image: ridgeback-main-site:local
+    build:
+      context: ./ridgebackrv.com
+      dockerfile: Dockerfile
+    ports:
+      - "${MAIN_SITE_PORT:-8080}:80"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+  database:
+    image: mysql:8.4
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_0900_ai_ci
+    environment:
+      MYSQL_DATABASE: "${RIDGEBACK_DB_NAME:-ridgebackrv}"
+      MYSQL_USER: "${RIDGEBACK_DB_USER:-ridgeback}"
+      MYSQL_PASSWORD: "${RIDGEBACK_DB_PASSWORD:-ridgeback_local_password}"
+      MYSQL_ROOT_PASSWORD: "${RIDGEBACK_DB_ROOT_PASSWORD:-ridgeback_local_root_password}"
+    volumes:
+      - ridgeback_mysql_data:/var/lib/mysql
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping --host=127.0.0.1 --user=root --password=$${MYSQL_ROOT_PASSWORD} --silent"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+  migrate:
+    image: ridgeback-booking-site:local
+    build:
+      context: ./book.ridgebackrv.com
+      dockerfile: Dockerfile
+    command: ["node", "server/migrate.js"]
+    env_file:
+      - path: ./book.ridgebackrv.com/.env
+        required: false
+    environment:
+      DATABASE_URL: "mysql://${RIDGEBACK_DB_USER:-ridgeback}:${RIDGEBACK_DB_PASSWORD:-ridgeback_local_password}@database:3306/${RIDGEBACK_DB_NAME:-ridgebackrv}"
+      APP_ORIGIN: "http://localhost:3000"
+      PAYMENTS_ENABLED: "false"
+      AUTH_EXPOSE_RESET_LINKS: "true"
+    depends_on:
+      database:
+        condition: service_healthy
+    restart: "no"
+
+  booking-site:
+    image: ridgeback-booking-site:local
+    build:
+      context: ./book.ridgebackrv.com
+      dockerfile: Dockerfile
+    init: true
+    env_file:
+      - path: ./book.ridgebackrv.com/.env
+        required: false
+    environment:
+      NODE_ENV: production
+      PORT: "3000"
+      APP_ORIGIN: "${BOOKING_APP_ORIGIN:-http://localhost:3000}"
+      DATABASE_URL: "mysql://${RIDGEBACK_DB_USER:-ridgeback}:${RIDGEBACK_DB_PASSWORD:-ridgeback_local_password}@database:3306/${RIDGEBACK_DB_NAME:-ridgebackrv}"
+    ports:
+      - "${BOOKING_SITE_PORT:-3000}:3000"
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r => { if (!r.ok) process.exit(1) }).catch(() => process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  ridgeback_mysql_data:
+

@@ -1,0 +1,993 @@
+
+### Our Backstory
+
+{{< fig src="front.png" alt="Front Entrance" width="300" height="300" class="ml-6" imgclass="rounded-lg" >}}
+Ridgeback RV is the owner's first foray into outdoor hospitality,
+opening its gates in spring 2025. Though new to RV parks, he brings
+over thirty years as a master custom home builder-renowned for bespoke
+finishes and impeccable design.  Driven by a passion for interiors, he
+built a team of gifted artisans in millwork, masonry, and lighting
+design, and spent years experimenting with textures, color palettes,
+and hand-crafted details. Clients have come to expect signature
+features: bespoke cabinetry, built-in millwork tailored to each space,
+and statement fireplaces crafted from natural stone.
+
+### Urban Camping Redefined
+
+{{< fig src="clubhouse.png" alt="Clubhouse" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+That same dedication shaped Ridgeback RV, where upscale amenities and
+refined decor transform an ordinary campground into an urban camping
+oasis.  By weaving his home-building expertise into an RV park
+setting, he redefines what it means to 'camp' in the city.  Every
+detail at Ridgeback RV-from hotel-quality artisanal hardware to plush
+lounge areas-reinforces a singular promise: thoughtful design and
+uncompromising quality in every square foot.  Drawing on decades of
+custom home design, he crafted durable, high-end finishes, custom
+wood millwork, and built-in cabinetry to anchor the space.
+
+### Modern Basecamp Comforts
+
+{{< fig src="game.room.jpg" alt="Living Room" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+The centerpiece of our clubhouse is the bright, [spacious living
+room](/#livingroom) where natural light streams through expansive
+windows, creating an inviting atmosphere for socializing, quiet
+relaxation, or focused co-working. This versatile space transforms
+throughout the day-from a peaceful morning reading retreat to an
+evening social hub where fellow travelers gather to play games and
+share stories.  Complimentary high-speed WiFi and plush seating
+support both downtime and productivity, and built-in cabinetry plus
+quality materials reflect the same attention to detail found in the
+owner's luxury home projects.  Enjoy our comfortable seating arranged
+around a stunning big-screen TV, perfect for movie nights, catching
+the big game, or connecting your gaming system. The dedicated game
+table invites friendly competition, while our built-in bookcases house
+a curated collection of books, magazines, and board games for guests
+of all interests.
+
+### Free Laundry Refresh
+
+{{< fig src="laundry.jpg" alt="Laundry Room" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+When you're ready to freshen up, the washhouse awaits with modern,
+bright private shower suites complete with rainfall showerheads and
+LED-lit mirrors. Across the hall, complimentary washers and dryers
+make laundry a breeze-so you can refresh and renew for the next leg of
+your journey.  Forget quarters though; our laundry machines are
+completely free---just remember to bring your favorite detergent.
+
+### Pet Play Paradise
+
+{{< fig src="dog.park.png" alt="Dog Park" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+In the center of camp, our pet-friendly play zone keeps four-legged
+campers entertained, while picnic tables and bench seating ensure
+everyone can enjoy outdoor fun in comfort.  Waste stations in the park
+make picking up after pets a breeze.
+
+### Exceptional Guest Service
+At Ridgeback RV, we take pride in delivering exceptional service to
+our guests. From the moment you step through our doors, our friendly
+and knowledgeable staff will cater to your every need, ensuring a
+memorable and personalized stay.
+
+### Adventure Awaits: Book Your Stay Today!
+Ready to experience adventure in comfort? Book your stay at Ridgeback RV today and let us create an unforgettable experience for you. Whether you're traveling solo, with a loved one, or with a group, our campground is dedicated to surpassing your expectations and making your stay truly exceptional.
+
+<div class="p-8 bg-gray-500 mx-auto max-w-5xl rounded-lg flex flex-col items-center text-center">
+  <div class="text-white text-4xl md:text-6xl tracking-tight">
+  Reserve your campsite online
+  </div>
+  <div class="m-2 text-gray-100 text-lg md:text-xl prose">
+    Receive immediate confirmation by email
+  </div>
+    <a href="https://staging.book.ridgebackrv.hiqain.com/" 
+    class="px-3 py-.5 m-4 rounded-md text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 bg-white hover:bg-gray-300 text-black border-2 border-transparent">
+      Check Availability
+    </a>
+</div>
+
+## Arrival & Stay
+
+### What is the check-in process?
+
+Ridgeback RV operates with complete self-service check-in, providing 24/7 arrival flexibility without staff interaction. Upon reservation, you'll receive an email with your gate access code and detailed arrival instructions. Simply drive to the front gate at 1663 Blalock Road, enter your code on the keypad, and the gate opens automatically.
+
+### How does site selection work?
+
+Once through the gate, drive through the resort to select any available site that suits your preferences. All 51x12 ft concrete pad sites offer identical premium amenities with full 20/30/50 amp electrical, water, and sewer hookups. Park your RV and connect to utilities at your chosen location—every pedestal is powered for immediate electricity access.
+
+### Can I arrive without a reservation?
+
+While traditional walk-ups aren't accepted due to gate security requirements, you can make instant reservations through our website using your phone. Within moments of booking, you'll receive your gate access code via confirmation email, allowing immediate entry. This system ensures 24/7 arrival flexibility while maintaining resort security.
+
+### What are the check-in and check-out times?
+
+Check-in begins at 12:00 PM, though our self-service system allows arrival anytime after that hour. Check-out is strictly 11:00 AM to ensure site availability for incoming guests. Guests who haven't arrived within 24 hours of their scheduled check-in without prior arrangements forfeit their reservation as a no-show.
+
+## Site Details & Amenities
+
+### What types of sites are available?
+
+- All sites are back in.
+- Sites accommodate RVs up to 51 feet including tow vehicles.
+- Concrete pads are approx. 12 ft wide with additional adjacent
+  gravel/grass surfaces.
+
+### What utilities are available?
+
+- Every site has power, water, sewer hookups at the rear.
+- On-site dumpster for household trash
+- Laundry and Showers open 7am to 10pm daily in the Clubhouse.
+- Night lighting for improved evening navigation
+
+### Do you provide WiFi?
+
+We're happy to provide free gigabit WiFi for all guests! Rideback RV
+has ATT fiber gigabit internet service and commercial grade WiFi
+Routers.  Our internet service is generally very reliable, though
+we're unable to offer refunds or rate adjustments for any temporary
+connectivity issues.
+
+### Where do I park additional vehicles?
+
+- All vehicles must fit entirely in the designated site and not extend into roadways.
+- We generally have no overflow parking available due to limited space in this dense urban location.
+
+### Are there limitations on pets?
+
+- Two pets per site maximum. Exceptions may be considered for pets that remain exclusively inside your RV. Call for approval regarding additional pets.
+- All pet breeds welcome; aggressive animals causing disturbances must be removed immediately.
+
+### Are tents allowed?
+
+- Tent camping is welcome on concrete pads at standard rates with electric hookup access.
+
+### Is dry camping available?
+
+- Dry camping welcome on full-hookup sites at standard rates.
+
+
+### Do you have a dump station?
+
+- Guests are welcome to dump at the full hookups in their
+  campsite. Due to our dense urban locaiton, we do not have a separate
+  dump station, and cannot offer dump services to non-guests.
+
+### Where is the closest public dump station?
+
+- 23 mi west on I-10, $10 dump at [Love's Travel Stop, 612 Pederson
+  Rd, Katy, TX 77494](https://maps.app.goo.gl/E89LUtR9TbvDtaw7A).
+
+- 27 mi west on I-10, $10 dump and potable water at [Flying J Travel
+  Center 204 Waller Ave, Brookshire, TX
+  77423](https://maps.app.goo.gl/T2444EJrWX7ksLsu6).
+
+### Can visitors join me?
+
+- Guests are allowed four visitors per site per day.
+- All visitors must register at office during office hours.
+- Overnight guests count toward 6-person site limit.
+- Guests may park within your site only.
+
+### Are campfires allowed?
+
+- Wood and propane fires are prohibited.
+- Manufactured propane grills in your campsite are allowed.
+
+<div class="p-8 bg-gray-500 mx-auto max-w-5xl rounded-lg flex flex-col items-center text-center">
+  <div class="text-white text-4xl md:text-6xl tracking-tight">
+  Reserve your campsite online
+  </div>
+  <div class="m-2 text-gray-100 text-lg md:text-xl prose">
+    Receive immediate confirmation by email
+  </div>
+    <a href="https://staging.book.ridgebackrv.hiqain.com/" 
+    class="px-3 py-.5 m-4 rounded-md text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 bg-white hover:bg-gray-300 text-black border-2 border-transparent">
+      Check Availability
+    </a>
+</div>
+
+##  Safety
+
+### Is Ridgeback RV located in a safe area?
+
+Ridgeback RV is situated in a quiet neighborhood, surrounded by
+Churches on three sides and bordered on all four sides by established
+residential neighborhoods, providing a peaceful environment.
+
+### What safety measures are in place?
+
+Entry to the park is controlled by an always-closed gate system. Each
+guest receives an entry code at check-in, which is required to open
+the gate and drive into the campground. In addition, security cameras
+monitor the outdoor areas of the campground.
+
+### How is the campground lit at night?
+
+Overhead lighting illuminates the entire campground throughout the
+night, making it easy and safe to walk to restrooms or laundry
+facilities at any hour.
+
+### What happens if there is a power outage?
+
+Ridgeback RV has a 100-kilowatt generator ready for installation
+soon, that will ensure continued comfort and power for guests during
+weather-related outages, including hurricanes.
+
+### Are there any additional safety guidelines?
+
+All guests must observe a 5 MPH speed limit within the
+park. Fireworks, drones, and open fires are prohibited. Aggressive
+pets must be removed immediately, and all visitors must register at
+the office during office hours.
+
+### Who can I contact in case of emergency?
+
+In an emergency, dial 911. For non-emergency concerns, guests can
+reach Ridgeback RV staff by phone at +1 (281) 413-5064 or email
+info@ridgebackrv.com.
+
+## Local Services
+
+### Where is the nearest propane refill?
+
+- [U-Haul](https://maps.app.goo.gl/8FQtvuWhtLNzfzUK6) is 3.1 mi away, west on I-10.
+- [Green's Blue Flame Gas](https://maps.app.goo.gl/z1SP1i7kf3hkyGN27) is 3.4 mi north on Blalock.
+
+### Where is the nearest grocery store?
+
+- [Sellers Bros Grocery](https://maps.app.goo.gl/M74bgw1MRCdEbqon7) is 0.7 mi north on Blalock.
+- [Kroger](https://maps.app.goo.gl/HPbnhiSuwGQPZ9Aa9) is 1.5 mi south on Blalock.
+- [Aldi](https://maps.app.goo.gl/Zz6QKLRwxC9i5CoJ7) and [HEB](https://maps.app.goo.gl/Ybv2eZTV2BrMNJym6) are 2.5 mi away.
+- [Walmart](https://maps.app.goo.gl/wwkwbPVtUSrjXm1P7) is 3.2 mi away.
+
+### Is medical care nearby?
+
+- [Memorial Hermann Medical Center](https://memorialhermann.org), a world-class teaching hospital, is 3.1 mi away.
+- [Bingle Veterinary Clinic](https://maps.app.goo.gl/iy1KM5zPVHDo3By66) is 2 mi away.
+
+### What if my RV needs repairs?
+
+- Minor repairs are welcome with prior approval. For major work, we’re
+  happy to recommend local shops experienced with large Class As and
+  fifth-wheels. Please check with the office before starting any
+  repairs to make sure everything meets park guidelines and keeps the
+  park comfortable for everyone.
+
+### How do I handle mail/packages?
+
+- USPS mail can be held for general delivery at the [US Post
+  Office](https://maps.app.goo.gl/Qu2DjXv9h3qLqybL8) 1.5mi north of
+  Ridgeback RV.https://staging.ridgebackrv.hiqain.com/faq/
+
+- FedEx packages may be arranged to be held for pickup at the [FedEx
+  Office Print & Ship
+  Center](https://maps.app.goo.gl/iKBeBngXEVSpt1aD7) 2mi away at I-10
+  and Bunker Hill.
+
+- UPS packages may be arranged to be held for pickup at the [UPS
+  Access Point location](https://maps.app.goo.gl/tk8WReYfirQNevBf6)
+  2mi away at I-10 and Bunker Hill.
+
+- Amazon packages may be shipped for pickup at any of the dozen or
+  more Amazon Locker locations near Ridgeback RV such as at [Ross
+  Dress for Less](https://maps.app.goo.gl/uCNmB2ypEjzt1FXa8) 2mi away
+  at I-10 and Bunker Hill.
+
+## Nearby Activities
+
+### Nearby shopping?
+
+{{< fig src="mall.jpg" alt="Mall" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+
+- [Memorial City](https://www.memorialcity.com/), 2.5 mi away,
+  offers a comprehensive mix of shopping, dining, entertainment, and
+  lifestyle amenities, as well as a major medical center.
+
+- [CityCentre](https://maps.app.goo.gl/YEmeoRexEkSSxJeN6), 4 mi
+  away, offers an impressive array of chef-driven restaurants, outdoor
+  entertainment in the central plaza, and luxury shopping.
+
+- [Town & Country Village](https://townandcountryvillage.com/): 4.5
+  mi away, is an outdoor lifestyle center with over 90 retailers,
+  upscale boutiques, dining, spa, banking, and grocery services.
+
+- [The Galleria](https://www.simon.com/mall/the-galleria/stores), 7
+  mi away, is Texas' largest and most luxurious shopping
+  destination with more than 400 stores, 70 of which are exclusive to
+  Houston, and more than 60 eateries.
+
+### Nearby entertainment?
+
+{{< fig src="skate.jpg" alt="Skate" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+
+- [Cinemark Memorial
+  City](https://www.cinemark.com/theatres/tx-houston/cinemark-memorial-city):
+  a modern multiplex cinema showcasing first-run films.
+
+- [Ice Skate Memorial City](https://maps.app.goo.gl/JN4An45aUDBLB9Tk6)
+  offers year-round skating, lessons, and skate rentals.
+
+- [Bowl & Barrel](https://www.bowlandbarrel.com/): boutique bowling
+  alley with craft beers and bar fare at CityCentre
+
+- [Andretti Indoor Karting & Games](https://andrettikarting.com/katy):
+  high-speed indoor go-karting and arcade gaming complex
+
+- [The Escape Game Houston](https://theescapegame.com/houston/):
+  immersive escape-room adventures at CityCentre
+
+- [Great Big Game Show](https://greatbiggameshow.com/houston) provides
+  entertainment activities for groups.
+
+### Nearby outdoor recreation?
+
+{{< fig src="edith.moore.jpg" alt="Park" width="300" height="300" class="ml-6" imgclass="rounded-lg" figstyle="float: right" >}}
+
+- [Edith Moore Nature
+  Sanctuary](https://houstonaudubon.org/conservation/sanctuaries/edith-moore/visitor.html):
+  17.5 acre birding haven, 5 mi away.
+
+- [Bauer Pocket Park](https://maps.app.goo.gl/RTSAkdKonW5bfvDR8), one
+  mile away, has picnic tables, swings, and a children's playground.
+
+- [Bendwood Park](https://maps.app.goo.gl/zbmbBxmMB8Sid7N46), 4.7
+  mi away, has tennis courts, half court basketball courts,
+  playground, and picnic area.
+
+- [Memorial Park](https://www.memorialparkconservancy.org), 7 mi
+  away, features extensive options for outdoor enthusiasts, including:
+
+    - A 3-mile crushed granite [Seymour Lieberman
+      Exer-Trail](https://maps.app.goo.gl/Y1k22icv3z2LCej7A) with
+      exercise stations and lighting for 24/7 access
+
+    - Six mi of mountain and recreational bike trails along bayous
+
+    - Tennis courts with 18 hard-surface courts and a practice wall
+
+    - A highly rated 300-acre municipal golf course.
+
+- [Bear Creek Pioneers
+  Park](https://maps.app.goo.gl/LuyQRPYLRw9Lf5V26), 7.5 mi away,
+  features hiking trails, playgrounds, fishing ponds, and picnic
+  areas.
+
+- [The Houston Arboretum and Nature
+  Center](https://houstonarboretum.org), 8 mi away, provides nature
+  trails and educational programs.
+
+- [George Bush
+  Park](https://cp4.harriscountytx.gov/Explore/Parks/park/george-bush-park),
+  8,000 acres, 26 mi of trails through pristine wetlands, 14 mi away.
+
+### Nearby Fitness and Aquatics?
+
+- [Memorial Athletic Club and Aquatic
+  Center](https://maps.app.goo.gl/HnDFJMFL8fkrxtc4A) offers fitness
+  classes, personal training, and swimming facilities.
+
+- [Life Time](https://maps.app.goo.gl/PH7GotMETTZurFTw5) features
+  extensive equipment, indoor cycling, rock climbing, and pickleball
+  courts.
+
+- [Memorial Park Fitness
+  Center](https://maps.app.goo.gl/kwkzi1xaAgLbiWJc6) provides weight
+  equipment, trainers, and a seasonal swimming pool.
+
+## Houston Activities
+
+### Live Theater, Music, and Dance?
+
+- [Miller Outdoor Theatre](https://www.milleroutdoortheatre.com), Free
+  outdoor performances in Hermann Park, featuring theater, music, and
+  dance.
+
+- [The Hobby Center for the Performing
+  Arts](https://www.thehobbycenter.org) State-of-the-art downtown
+  complex hosting Broadway tours, musicals, and major productions.
+
+- [Wortham Theater Center](https://www.houstonfirsttheaters.com)
+  Downtown performing arts center, home to Houston Ballet and Houston
+  Grand Opera.
+
+- [Main Street
+  Theater](https://mainstreettheater.com/mst-match-midtown-arts-theater-center-of-houston/)
+  Flexible, community-focused venue for local theater, dance, and arts
+  events.
+
+- [White Oak Music Hall](https://www.whiteoakmusichall.com)
+  Indoor/outdoor venue primarily for music, occasionally hosting live
+  theater and special events.
+
+- [Warehouse Live](https://warehouselive.com) Converted warehouse
+  offering club-style concerts and occasional experimental theater.
+
+
+### Popular museums?
+
+- [Museum of Fine Arts, Houston](https://www.mfah.org) The largest and most prominent art museum in Texas, featuring over 70,000 works spanning 6,000 years, with world-class exhibitions and an architecturally significant campus in the heart of the Museum District.
+
+- [Houston Museum of Natural Science](https://www.hmns.org) A leading science museum offering extensive exhibits on paleontology, astronomy, gems, wildlife, and more, including the Cockrell Butterfly Center and Burke Baker Planetarium.
+
+- [Space Center Houston](https://spacecenter.org) Official visitor center of NASA’s Johnson Space Center, renowned for interactive space exhibits, astronaut encounters, and educational programs.
+
+- [The Menil Collection](https://www.menil.org) Celebrated for its free-admission galleries and serene campus, this museum houses nearly 19,000 works, including masterpieces by Picasso and Magritte, and is a cornerstone of Houston’s modern art scene.
+
+- [Children’s Museum Houston](https://www.cmhouston.org) An award-winning, hands-on museum designed to spark curiosity and learning in children through interactive science, technology, and cultural exhibits.
+
+- [Houston Zoo](https://www.houstonzoo.org) A major zoological park in Hermann Park, home to thousands of animals and a leader in conservation and education.
+
+- [The Health Museum](https://www.thehealthmuseum.org) Smithsonian affiliate with interactive health and science exhibits.
+
+### Cultural Heritage?
+
+- [The Heritage Society at Sam Houston Park](https://www.heritagesociety.org) An outdoor museum featuring historic Texas homes and artifacts, preserving and interpreting Houston and Texas history and culture.
+
+- [San Jacinto Museum of History](https://www.sanjacinto-museum.org) Located at the San Jacinto Battleground, this museum tells the story of Texas independence and the diverse peoples who shaped the state’s identity.
+
+- [Rothko Chapel](https://rothkochapel.org): Internationally recognized
+  spiritual space and art installation featuring Mark Rothko’s
+  paintings.
+
+- [Buffalo Soldiers National Museum](https://www.buffalosoldiermuseum.com) The nation’s largest collection dedicated to African American military history, with exhibits spotlighting the contributions of Black Texans and their role in U.S. history.
+
+- [Holocaust Museum Houston](https://hmh.org) One of the largest Holocaust museums in the U.S., dedicated to education and remembrance, and exploring the stories of survivors, many of whom settled in Texas.
+
+- [Asia Society Texas Center](https://asiasociety.org/texas) Celebrates Asian and Asian American heritage through art, culture, and education, reflecting Houston’s diverse communities and international connections.
+
+- [Houston Museum of African American Culture](https://hmaac.org) Focused on the past, present, and future of African Americans in Houston and Texas, with free exhibits and community programs.
+
+- [Czech Center Museum Houston](https://www.czechcenter.org) Showcases the history and traditions of Czech, Slovak, and Moravian immigrants, who have played a significant role in Texas’s cultural fabric.
+
+- [Houston Center for Contemporary Craft](https://crafthouston.org) Dedicated to advancing education about the process, product, and history of craft.
+
+- [Houston Center for Photography](https://hcponline.org) Nonprofit organization showcasing contemporary photography.
+
+### Use of Cookies
+Our website uses Google Analytics to collect and analyze data about how visitors interact with our site. This helps us improve the website's functionality and user experience. Google Analytics uses first-party cookies to track user behavior without collecting personally identifiable information (PII). These cookies provide us with insights into website traffic and performance metrics.
+
+### Purpose of Data Collection
+The data collected through Google Analytics cookies is used exclusively to understand how our website is used and to enhance its performance. We do not share this data with any third parties, except for service providers directly involved in maintaining and operating this website. These service providers are contractually obligated to handle the data securely and in compliance with applicable laws.
+
+### Consent Requirements
+As our business operates solely within the United States and serves local customers physically present at our RV park, we follow U.S. privacy standards. By using our website, you consent to the use of Google Analytics cookies unless you choose to disable them through your browser settings.
+
+### Managing Cookies
+If you prefer not to have your data collected via Google Analytics cookies, you can disable cookies in your browser settings or use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please note that disabling cookies may affect certain functionalities of our website.
+
+### Data Retention
+We retain analytics data in accordance with Google's default retention settings or as required by applicable law. All data collected is anonymized wherever possible to minimize privacy risks.
+
+### Updates to This Policy
+We may update this policy periodically to reflect changes in legal requirements or our use of cookies. Any updates will be posted on this page, and continued use of our website constitutes acceptance of any changes.
+
+### Website Terms of Use
+The content of the pages of this website is for your general information and use only. It is subject to change without notice. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness, or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors, and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services, or information available through this website meet your specific requirements.
+
+### Intellectual Property
+This website contains material that is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance, and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. All trademarks reproduced on this website, which are not the property of or licensed to the operator, are acknowledged on the website.
+
+### Limitation of Liability
+Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness, or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors, and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+
+Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services, or information available through this website meet your specific requirements.
+
+Welcome to Ridgeback RV! We're thrilled to have you as our guest, and
+to help ensure everyone enjoys their stay, we've outlined our resort
+policies and local regulations that all guests must abide by during
+their visit. Our team is always here to help, so if anything comes up
+during your stay, just give us a shout – we're happy to assist and
+make your experience as comfortable as possible!
+
+## General Applicability and Conduct
+
+All guests, residents, visitors, and other occupants are required to comply with all rules and regulations posted at the property, as well as all directions of resort management and team. We reserve the right to remove from the resort anyone in violation of these Terms of Service or any rules or regulations posted at the resort. There are no refunds for voluntary departure, eviction, acts of nature, or removal in accordance with these Terms of Service or by law enforcement or court order.
+
+These Terms of Service are subject to change at any time without notice. We kindly ask all guests to comply with resport policies, local ordinances, and posted guidelines. For your convenience and prompt resolution, please notify a team member of any concerns as soon as they arise.
+
+## Reservations and Payment
+
+### Booking and Deposits
+
+To secure your reservation, full payment is required at the time of
+booking. A confirmation email is sent immediately after booking. Your
+reservation guarantees a site, not a specific site number.
+
+Electricity is included in rates under 30 nights. For guests enjoying
+our 30 night discount rate, a $100 electricity electricity deposit is
+collected either in advance or upon check-in to cover pass through
+billing of electrical service.  Your deposit is fully applied to your
+electricity usage, with any remaining balance refunded upon departure.
+
+### Reservation changes
+
+If you create an account with your email address, you can log in at any time to cancel your reservation instantly.
+
+For reservation changes, please call our office directly.
+
+We do not refund for early departures.
+
+### Cancellation Policy
+
+**Stays Less than 30 Nights:**
+- 7+ days before arrival: Full refund minus $30 fee
+- Within 7 days of arrival: Forfeit full deposit
+- No-shows: Forfeit full deposit
+
+**Stays 30 Nights or Longer:**
+- 45+ days before arrival: Full refund minus $30 fee
+- Within 45 days of arrival: Forfeit full deposit
+- After check-in: No refunds
+
+## Check-In and Check-Out
+
+#### Check-In/Out Times
+- Check-in: After 12:00 PM
+- After hours: Your reservation confirmation email contains check-in
+  instructions.
+- Check-out: Before 11:00 AM sharp
+
+Arriving late? No problem! While our secure gate system requires
+advance reservations, you can book your site right from your vehicle
+using any smartphone. Within moments of completing your reservation,
+you'll receive your confirmation email with your gate access code
+and a complete self check-in guide. It's modern convenience designed
+for today's RVers.
+
+Any guests that have not shown up 24 hours after their check-in time,
+and have not made prior arrangements with the resort staff, will be
+considered a no-show reservation and forfeit their deposit.  We do
+want to be accomodating as possible, so please text, email or call in
+advance to let us know if you are unable to arrive.
+
+## Site Specifications and Occupancy
+
+### Vehicle Requirements
+All RVs require on-site manager approval. RVs 10+ years old require pre-approval. Only certified RV types are permitted, including Class A, B, and C Motorhomes, 5th wheels, and travel trailers. Clean, damage-free exterior is required. No window AC units or modifications are allowed.
+
+Tents, pop-up campers, and conversion vans are only permitted on
+designated sites at standard rates. Sites are designed to accommodate
+one unit at a time. Only one tent may act as a primary camping unit on
+a site at management's discretion as site size allows, and must be
+taken down during the day.
+
+### Occupancy Limits
+Maximum 6 people per site, with 2 adults and 2 children included in base rate. Additional persons are charged $5 per night each. One RV plus one tow vehicle per site is permitted. All vehicles must fit within your designated site, and parking outside your designated site is not permitted.
+
+Two vehicles, inclusive of one RV, are included with each reservation. 
+Additional vehicles for registered guests are $10 per day, subject to availability.
+
+## Amenities and Facilities
+
+### Clubhouse Hours and Amenities
+
+Our clubhouse welcomes all guests daily from **7:00 AM to 10:00 PM**,
+providing a comfortable gathering space and essential amenities for
+your convenience. During these hours, you'll have full access to:
+
+- **Living Room:** Relax and socialize in our inviting common area
+- **Restroom and Shower Facilities:** Clean, well-maintained facilities for your comfort
+- **Laundry Room:** Convenient on-site laundry services
+
+All clubhouse amenities, including restrooms, showers, and laundry facilities, are located within the main clubhouse building and available exclusively during operating hours (7:00 AM - 10:00 PM daily).
+
+No private reservations are permitted for common areas. Please take all belongings when leaving facilities and report maintenance needs promptly.
+
+### Laundry Guidelines
+Please bring your own detergent. Empty pockets and shake out dirt, sand, and hair outside first. Prohibited items include shoes, boots, pet bedding, rubber mats, oversized items, or anything with metal/hardware. No items soiled with oil, gas, paint, or chemicals are permitted. Clean up after yourself and remove dryer lint. You pay for any damage from improper use.  Ridgeback RV does not guarantee that amenities will be available at all times, as certain amenities are subject to seasonal closures or maintenance.
+
+## Quiet Hours and Conduct
+
+Quiet hours are from 10:00 PM to 7:00 AM daily. Please respect neighbors by maintaining peace.  During quiet hours, no loud talking, loud radios, loud televisions, or other loud noises or behavior that may disturb guests is permitted. Excessive noise may result in removal without refund.
+
+Please be considerate of your neighbors' privacy and space. Do not walk on or pass through the site of another guest. We promote an inclusive and family-friendly atmosphere. Harassment or offensive or intolerant language or actions will not be tolerated. Flags, signs, or other visual symbols that contain vulgarity, or represent politicians or political candidates are not permitted.
+
+## Pet Policy
+
+Two pets maximum per site; additional pets require approval. Pets are not allowed inside the clubhouse. 6-foot maximum leash length is required. Pets must be leashed at all times outside your vehicles. Aggressive pets must be removed from the property. 
+
+All pets must be up to date on vaccines, and copies of pet vaccine
+records must be available upon request. Pets should not be left
+unattended or outdoors overnight. The resort is not responsible for pets
+left in your RV. Immediate waste cleanup is required. Pet policy
+violations are subject to a $20 per incident fee.
+
+## Safety Guidelines and Prohibited Items
+
+### Speed and Transportation
+Please observe the 5 MPH speed limit throughout the resort. Non-motorized skateboards, scooters, roller blades, roller skates, and bicycles are permitted when used safely and quietly. Motorized items such as drones, motorbikes, hover boards, and similar motorized recreational items are prohibited.
+
+### Prohibited Activities and Items
+- Generator use is not permitted
+- Wood and propane fires are not allowed
+- Fireworks and drones are prohibited
+- Discharging firearms is prohibited
+- Vehicle repairs or washing require prior approval
+- Skateboards, ATVs, and unlicensed vehicles are not permitted
+- Smoking is restricted to your campsite
+
+The use of fireworks, including sparklers, or any other form of explosive or incendiary device, is not permitted under any circumstances. Anyone caught with fireworks may be removed from the property without refund.
+
+## Site Maintenance and Modifications
+
+### General Maintenance
+Please keep your site clutter-free. No stakes in ground are permitted. Sites must be cleaned up of garbage and debris prior to departure.
+
+Overnight temporary structures (easy-ups) are not permitted. Permanent
+structures require written approval. Our staff may inspect or perform
+maintenance in sites at any time.
+
+### Sewer and Utilities
+All sewer hoses must be undamaged, and sewer connections must be tight with a sewer donut around the sewer hose at the point of connection. Sewer hoses must be sloped downward from the RV's sewer connection to prevent clogging or spillage. Guests are responsible and will be charged for any damages caused by their sewer hookup.
+
+The discharge of any wastewater (septic or grey water) or any other toxic or hazardous material is strictly prohibited. Formaldehyde products or any other tank cleaning chemicals are not permitted.
+
+## Visitors and Guest Registration
+
+Guests may have visitors as long as they do not exceed maximum
+permitted occupancy. Visitors must register at the office and are
+subject to applicable guest fees if present overnight.
+
+Visitors are required to abide by all resort rules and regulations. Guests are responsible for the behavior of their visitors. Visitors are only permitted on property when registered resort guests are present.
+
+## Business Operations and Subleasing
+
+No business or commercial enterprise shall be permitted to operate from or within the resort without prior written consent of management. This restriction does not preclude guests from conducting business on a strictly digital or remote basis where activities do not bring additional traffic or cause nuisance.
+
+Subleasing, selling, transferring, or otherwise granting access to a site, RV, vacation rental, or other unit to a person not registered in the reservation is not permitted without management's express written approval. Applicable fees may apply.
+
+## Fees and Charges
+
+### Late Payment and Miscellaneous Fees
+For long-term reservations, a late payment charge of %10 will be
+charged for delinquent accounts after the 3rd day of the beginning of
+the renewal time period. There will be a $30 fee for any
+bounced ACH or returned check.
+
+### Damage Fees
+Light poles: $600. Hookups: $1,600. Additional charges may result for sites requiring additional cleaning. Guests will be charged for any damages caused by improper use of facilities.
+
+## Release of Liability 
+
+By completing this reservation, Guest, on behalf of Guest and Guest’s family and invitees (collectively, Guest), hereby irrevocably releases Ridgeback RV from and against, and agrees not to sue Ridgeback RV for, all claims and liability for personal injury, death, accidents, property damage, and any other claim arising out of or in connection with Guest’s use or occupancy of the Rental/Property. Further, Guest agrees to defend, indemnify and hold harmless Ridgeback RV from all losses, claims, expenses and demands, including attorneys’ fees, that Ridgeback RV may incur arising out of or in connection with Guest’s use of the Rental/Property. Guest releases Ridgeback RV from any act or omission of Ridgeback RV even if due to Ridgeback RV’s negligence. Guest further agrees to be responsible and liable for the actions and safety of every person in Guest’s group. Ridgeback RV reserves the right to remove any renter, occupant or guest who is required to register under a State sexual offender registration program.
+
+## Policy Enforcement
+
+For the safety and comfort of all guests, aggressive pets will be removed from the property. Violations, including noise complaints or property damage, may result in removal without refund or towing at your expense. We may modify these rules or refuse service at our discretion.
+
+We reserve the right to immediately evict any guest, without refund, for failure to comply with these rules. All guests must comply with state and local requirements related to permitted length of stay, use restrictions, and any other applicable laws.
+
+## Emergency Procedures
+
+Dial 911 in case of an emergency. Guests must comply with all resort staff instructions during an emergency.
+
+**Contact Information:**
+- Phone: +1 (281) 413-5064
+- Email: info@ridgebackrv.com
+- Address: 1663 Blalock Rd, Houston, TX 77080
+
+**Thank you for choosing Ridgeback RV! We look forward to making your stay enjoyable.**
+
+
+
+
+
+
+
+
+        Our clubhouse redefines RV camping with hotel-quality
+        facilities and a cosy living room featuring comfortable
+        seating, board games, and a big-screen TV. The clubhouse complex
+        also includes premium amenities including spotless shower
+        facilities and a bright laundry room with complimentary
+        washers and dryers.
+
+      - Daily Hours 7:00 AM - 10:00 PM
+      - Big-screen TV for movie or sports nights
+      - Board games and other entertainment options
+      - laundry room with free washers/dryers
+      - Modern clean hot showers
+
+
+
+
+        Just three miles away,
+        <ins>[CityCentre](https://www.citycentrehouston.com/)</ins>
+        features chef-driven restaurants and cafes offering everything
+        from global cuisine to Texas favorites in an upscale outdoor
+        setting. Visitors enjoy stylish patios, craft cocktails, and
+        vibrant atmospheres just minutes from your RV campsite:
+
+        - <ins>[Chef-driven culinary excellence in every
+          dish](https://www.citycentrehouston.com/directory-map#/categories?category=Dine)</ins>
+        - <ins>[Live music, movies and seasonal
+          events](https://www.citycentrehouston.com/events)</ins>
+        - <ins>[Promotional events for dining and
+          shopping](https://www.citycentrehouston.com/promos)</ins>
+        - <ins>[Upscale spas and salons](https://www.citycentrehouston.com/directory-map#/categories?category=Experience)</ins> for pampering
+
+
+
+
+        Enjoy quality time with your pets in our charming dog park
+        located in the heart of the campground. Featuring lush
+        artificial turf, sturdy picnic tables, and a relaxing
+        atmosphere under the trees, it's the perfect spot for on-leash
+        fun and relaxation.
+
+      - Dedicated dog park in the center of camp.
+      - Picnic tables for relaxing with your pets.
+      - Open green space with waste station.
+      - All pets are welcome, with no breed restrictions.
+        <div class="p-8"><a href="/rates" class="inline-block
+        text-center font-bold p-8
+        bg-gray-600 rounded-xl whitespace-normal text-white
+
+        Limited-Time 30-Night Package<br/>
+        $750 total - Save $1,200!</a></div>
+
+
+
+
+        Spacious 50-foot concrete pads with full hookups for stable
+        big-rig camping. As Houston’s newest resort-style campground,
+        we prioritize convenience and comfort for families seeking
+        premium Texas RV accommodations.
+
+        - 20/30/50A full hookups at every campsite
+        - Pet-friendly sites and an <ins><a href="/#dogpark">on-site dog park</a></ins>
+        - Free WiFi, <ins><a href="/#laundry">free washer & dryer access</a></ins>
+        - Controlled access code for entrance gate
+
+
+
+      - text: +1 (281) 413-5064
+
+      - text: info@ridgebackrv.com  
+
+      - text: Map
+
+
+
+
+
+        Our bright, modern laundry room features complimentary washers
+        and dryers. Conveniently located inside the clubhouse, these
+        efficient machines make quick work of travel laundry while you
+        relax in our comfortable waiting area with high-speed WiFi
+        access.
+
+      - Laundry is on us---just bring detergent.
+      - Forget quarters---our laundry machines are free.
+      - 7am-10pm access to laundry room inside the clubhouse
+      - More stacked washers and dryers arriving soon
+
+
+
+
+        Relax in our bright living room featuring comfortable seating, a
+        gaming table, and big-screen TV - perfect for unwinding after
+        shopping, dining and exploring Houston. This premium RV resort
+        amenity includes:
+
+      - Spacious lounge with big-screen TV
+      - Board games and entertainment options
+      - Perfect spot for focused remote work
+      - Free high-speed WiFi throughout campground
+
+      - text: Check Availability
+
+      - text: Area Guide
+
+      - text: Reviews
+
+
+
+
+
+
+      - text: Book Your Site
+
+      - text: Explore Amenities
+
+
+        Nestled near I-10, our campground positions families minutes
+        from Houston’s top destinations without sacrificing tranquil
+        camping comforts. This strategic location makes Ridgeback RV
+        the ideal basecamp for exploring Texas’s largest city.
+
+        - 3mi to premium brands at <ins>[Memorial City
+          Mall](https://www.memorialcity.com)</ins>
+        - 3mi to chef-driven cuisine at
+          <ins>[CityCentre](https://www.citycentrehouston.com)</ins>
+        - 2.5mi to world-class <ins>[Memorial Medical
+          Center](https://memorialhermann.org)</ins>
+        - 5mi to tranquil hiking at <ins>[Moore Nature Sanctuary](https://houstonaudubon.org/conservation/sanctuaries/edith-moore/visitor.html)</ins>
+        - 1.4mi to I-10 for quick road trip connections  
+        - Walking distance to groceries and pharmacies  
+
+
+
+
+        Just 2.5 miles away, <ins>[Memorial Hermann Medical
+        Center](https://memorialhermann.org)</ins> delivers
+        world-class healthcare as part of Houston's premier medical
+        ecosystem. Access cutting-edge treatments and leading
+        specialists while enjoying the comfort and convenience of your
+        Ridgeback RV home.
+
+        - Comprehensive <ins>[Family
+          Medicine](https://memorialhermann.org/doctors/family-medicine-doctors)</ins>
+          for all ages
+        - <ins>[Expert cardiac
+          care](https://memorialhermann.org/services/specialties/heart-and-vascular)</ins>
+          from renowned specialists
+        - <ins>[Physical
+          Therapy](https://memorialhermann.org/services/treatments/physical-therapy/locations)</ins>
+          for injuries and performance
+        - <ins>[Advanced Internal
+          Med](https://memorialhermann.org/doctors/internists)</ins>
+          for complexities
+        - <ins>[Urgent
+          clinic](https://www.gohealthuc.com/memorialhermann/locations/town-and-country)</ins>
+          and <ins>[24/7
+          ER](https://memorialhermann.org/locations/emergency-center-memorial-city)</ins>
+
+
+        <ins>[Spacious back-in RV campsites](/#hookups)</ins> with
+        20/30/50A power connections, 50ft concrete pads &
+        fast, complimentary WiFi. Big-rig friendly Houston RV park with
+        modern amenities and resort-style comfort.
+
+
+        Forget quarters---our <ins>[laundry facilities are completely
+        free](/#laundry)</ins> for all campers. Just one feature of
+        our luxury modern urban oasis designed for the discerning RV
+        traveler.
+
+
+        <ins>[Dedicated dog park with picnic tables](#dogpark)</ins>
+        for relaxing with your pets at our full hookup RV park
+        resort. No breed restrictions and waste stations provided.
+
+
+        <ins><a href="/#showers">Clean, modern shower spaces</a></ins>
+        and spotless restrooms with hotel-quality fixtures and elegant
+        finishes - the camping experience you deserve at our resort.
+
+
+
+
+        Explore the peaceful wooded trails of <ins>[Edith Moore Nature
+        Sanctuary](https://houstonaudubon.org/conservation/sanctuaries/edith-moore/visitor.html)</ins>,
+        where birding enthusiasts can spot native species while
+        enjoying the tranquil 17.5-acre wildlife habitat just minutes
+        from your campsite. At <ins>[Memorial
+        Park](https://maps.app.goo.gl/ucshf7EPjVJCF4nJ6)</ins> and
+        <ins>[George Bush
+        Park](https://cp4.harriscountytx.gov/Explore/Parks/park/george-bush-park)</ins>,
+        adventure awaits with miles of hiking and biking trails.
+
+        - 5mi to <ins>[Nature
+          Sanctuary](https://houstonaudubon.org/conservation/sanctuaries/edith-moore/visitor.html)</ins>
+          17.5-Acre Birding Haven
+        - 8mi to <ins>[Memorial
+          Park](https://maps.app.goo.gl/ucshf7EPjVJCF4nJ6)</ins> 3mi
+          lighted exercise track
+        - 8mi to <ins>[Arboretum and Nature
+          Center](https://houstonarboretum.org)</ins>
+        - 13mi to <ins>[George Bush Park](https://cp4.harriscountytx.gov/Explore/Parks/park/george-bush-park)</ins>
+          8,000 acres, 26mi of trails
+
+      Big-rig friendly Houston RV park with 50ft level concrete pads,
+      full hookups & modern resort amenities.
+
+
+
+
+
+
+        From nature sanctuaries to upscale entertainment, our Houston
+        RV resort offers diverse experiences for all ages. [Memorial
+        City Mall](https://www.memorialcity.com/shop/) offers a
+        comprehensive mix of shopping, dining, and entertainment:
+
+        - <ins>[100 Major retailers](https://www.memorialcity.com/shop/)</ins> for all your needs
+        - <ins>[Diverse dining options](https://www.memorialcity.com/dining/)</ins> from fast casual to fine
+        - Fun for all, including a <ins>[movie theater and ice rink](https://www.citycentrehouston.com/events)</ins>
+        - One-stop shopping just 3mi from your campsite
+
+
+
+
+
+
+
+
+      - text: Check Availability
+
+      - text: Area Guide
+
+      - text: Reviews
+
+
+        Step into our immaculate facilities featuring contemporary
+        design with upscale resort fixtures and elegant finishes. Our
+        full hookup RV park offers amenities typically found at
+        premium resorts.
+
+      - Bright, spacious private shower stalls for campers
+      - Modern restrooms with resort-quality fixtures
+      - Contemporary hardware & elegant finishes
+      - Immaculately maintained campground facilities
+
+
+
+
+
+
+
+
+
+
+
+        Modern RV park close to the city! All new with gated entry,
+        concrete pads and full hookups. Amazing club house with very
+        clean showers, bathrooms and laundry. Super friendly
+        management - we'll be back.
+
+
+
+
+        Incredible location! Never seen an RV park this close
+        to the city. Great brand new amenities. They even have a tankless
+        water heater so you never run out of hot water! Will be
+        recommending Ridgeback to all my RV friends who come through
+        Houston.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+        Located [just off the I-10](#map) freeway, Ridgeback RV puts
+        you at the center of major retailers from [Memorial City
+        Mall](#shopping) to [CityCentre's](#dining) chef-driven
+        restaurants, [Memorial Medical Center's](#healthcare)
+        world-class healthcare, and nearby [parks](#recreation) for
+        outdoor adventures. Our [full-hookup campground](#hookups)
+        offers long level concrete pads perfect for large Class A
+        motorhomes and fifth-wheels. Enjoy our
+        [clubhouse](#clubhouse), relaxing [living room](#livingroom),
+        and complimentary fast WiFi. For your furry friends, we have a
+        small [dog park](#dogpark). Our amenities include [free
+        laundry facilities](#laundry), and [modern, clean
+        showers](#showers). Experience the best of urban camping at
+        Ridgeback RV!
+        
+
+      - <ins>[Full hookup sites](#hookups)</ins> with 50-foot level concrete pads
+      - <ins>[Modern shower facilities](#showers)</ins> with hotel-quality fixtures
+      - <ins>[Free laundry machines](#laundry)</ins> - no quarters needed
+      - <ins>[Dog park with picnic tables](#dogpark)</ins> for furry companions
+      - <ins>[Clubhouse](#clubhouse)</ins> with <ins>[living room](#livingroom)</ins>
+      - Free fast WiFi throughout the entire RV park
+      - Minutes from <ins>[Memorial City Mall and CityCentre](#shopping)</ins> shopping
+      - Brand new modern facilities opened in spring 2025
+      - Gated entrance with access code
+      - Near the <ins>[best shopping, dining, entertainment and parks](#map)</ins>
+      - <div class="flex justify-center p-8"><a href="/rates" class="inline-block
+        text-center text-white font-bold text-2xl p-4 font-xl
+        bg-gray-500 rounded-xl whitespace-normal text-white
+
+        Grand Opening Special:<br/>
+        Limited-Time 30-Night Package<br/>
+        $750 total - Save $1,200!</a></div>

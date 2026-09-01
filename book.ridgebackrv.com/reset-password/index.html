@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reset Password | Ridgeback RV Park</title>
+  <meta name="description" content="Choose a new password for your Ridgeback RV Park account.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/media/icon_hu272591282444874624.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&amp;family=Manrope:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script defer src="/js/site.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="Ridgeback RV booking home">
+        <img src="/media/ridgebackrv-logo.png" alt="">
+      </a>
+      <div class="header-actions"><a class="account-link" href="/login/?back=my-account">Sign In</a></div>
+    </div>
+  </header>
+  <main class="inner-main" id="main-content">
+    <div class="container narrow-auth-layout">
+      <div class="surface-card auth-card">
+        <p class="eyebrow">Account security</p>
+        <h1 class="auth-title">Choose a new password.</h1>
+        <p class="section-copy auth-intro">Use at least 8 characters with uppercase, lowercase, and a number.</p>
+        <form class="auth-form" data-reset-password-form novalidate>
+          <input class="form-control" type="password" name="password" placeholder="New password" aria-label="New password" autocomplete="new-password" minlength="8" maxlength="128" required>
+          <input class="form-control" type="password" name="confirmPassword" placeholder="Confirm new password" aria-label="Confirm new password" autocomplete="new-password" minlength="8" maxlength="128" required>
+          <button class="btn btn-primary btn-block" type="submit" data-reset-submit>Reset Password</button>
+          <p class="auth-message" role="status" aria-live="polite" data-reset-message hidden></p>
+        </form>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="container footer-bottom">&copy; <span data-year></span> Ridgeback RV Park. All rights reserved.</div>
+  </footer>
+</body>
+</html>

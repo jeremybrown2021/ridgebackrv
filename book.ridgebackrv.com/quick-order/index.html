@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quick Order | Ridgeback RV Park Houston</title>
+  <meta name="description" content="Reserve an RV site in under a minute. Choose your dates, rig length and site type, then confirm your stay at Ridgeback RV Park in Houston.">
+  <meta name="author" content="Ridgeback RV">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Quick Order | Ridgeback RV Park Houston">
+  <meta property="og:description" content="Fast checkout for nightly, weekly and monthly full hookup RV sites at Ridgeback RV Park in Houston.">
+  <meta property="og:url" content="https://book.ridgebackrv.com/quick-order/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://book.ridgebackrv.com/quick-order/">
+  <link rel="icon" href="/media/icon_hu272591282444874624.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&amp;family=Manrope:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+  <script defer src="/js/site.js"></script>
+  <script defer src="/js/clover-checkout.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="Ridgeback RV booking home">
+        <img src="/media/ridgebackrv-logo.png" alt="">
+      </a>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <a class="nav-link" href="/">Home</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/relax/">Amenities</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a>
+        <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <a class="cart-link" href="/quick-order/" aria-label="Open booking" aria-current="page">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 4h2l2.2 9.1a2 2 0 0 0 1.95 1.53h7.96a2 2 0 0 0 1.95-1.55L20.5 7H6.1M9 20a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm8 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/></svg>
+        </a>
+        <a class="account-link" href="/login/?back=quick-order">Sign In</a>
+        <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-controls="mobile-navigation" aria-expanded="false" data-menu-toggle>
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <nav class="mobile-nav" id="mobile-navigation" aria-label="Mobile navigation" data-mobile-nav>
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/relax/">Amenities</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a>
+      <a class="nav-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a>
+    </nav>
+  </header>
+
+  <main class="inner-main quick-order-main" id="main-content">
+    <div class="container">
+
+      <div class="order-layout">
+        <form class="surface-card order-form" id="reservation-checkout" data-order-form novalidate>
+          <section class="order-step">
+            <p class="eyebrow">1 &middot; Your stay</p>
+            <div class="stay-grid">
+              <label>
+                <span class="field-label">Arrive</span>
+                <input class="form-control" type="date" name="arrival" required data-arrival>
+              </label>
+              <label>
+                <span class="field-label">Depart</span>
+                <input class="form-control" type="date" name="departure" required data-departure>
+              </label>
+              <label>
+                <span class="field-label">Nights</span>
+                <input class="form-control" type="number" name="nights" min="1" max="365" value="3" required data-nights>
+              </label>
+              <div class="occupancy-picker" data-occupancy-picker>
+                <span class="field-label">Guests &amp; Sites</span>
+                <button class="form-control occupancy-trigger" type="button" aria-expanded="false" aria-controls="order-occupancy-panel" data-occupancy-trigger>
+                  <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8M22 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                  <span data-occupancy-summary>1 Adult, 1 Site</span>
+                  <span class="occupancy-chevron" aria-hidden="true">&#8964;</span>
+                </button>
+                <input type="hidden" name="adults" value="1" data-occupancy-adults>
+                <input type="hidden" name="children" value="0" data-occupancy-children>
+                <input type="hidden" name="childAges" value="" data-occupancy-child-ages>
+                <input type="hidden" name="sites" value="1" data-occupancy-sites>
+                <div class="occupancy-panel surface-card" id="order-occupancy-panel" data-occupancy-panel hidden>
+                  <div class="occupancy-site-list" data-occupancy-site-list></div>
+                  <p class="occupancy-age-error" data-occupancy-age-error hidden>Select an age for every child.</p>
+                  <div class="occupancy-panel-actions">
+                    <button class="occupancy-add" type="button" data-occupancy-add>+ Add Site</button>
+                    <button class="occupancy-done" type="button" data-occupancy-done>Done</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <input type="hidden" name="site" value="standard">
+
+          <section class="order-step">
+            <p class="eyebrow">2 &middot; Guest details</p>
+            <div class="guest-grid">
+              <input class="form-control" type="text" name="fullName" placeholder="Full name" aria-label="Full name" autocomplete="name" maxlength="120" required>
+              <input class="form-control" type="email" name="email" placeholder="Email address" aria-label="Email address" autocomplete="email" maxlength="254" required>
+              <input class="form-control" type="tel" name="phone" placeholder="Phone number" aria-label="Phone number" autocomplete="tel" maxlength="30" required>
+            </div>
+          </section>
+
+          <section class="order-step payment-step" data-payment-section>
+            <div class="payment-heading">
+              <div>
+                <p class="eyebrow">3 &middot; Secure payment</p>
+                <p class="payment-copy">Card details are encrypted and tokenized inside Clover's secure fields. Ridgeback never receives your card number or CVV.</p>
+              </div>
+            </div>
+
+            <div class="payment-setup" role="status" data-payment-setup>Connecting securely to Clover&hellip;</div>
+            <div class="clover-payment-grid" data-clover-fields hidden>
+              <label class="clover-control clover-span-2">
+                <span class="field-label">Card number</span>
+                <div class="clover-field" id="card-number"></div>
+                <span class="clover-error" id="card-number-errors" aria-live="polite"></span>
+              </label>
+              <label class="clover-control clover-span-2">
+                <span class="field-label">Name on card</span>
+                <div class="clover-field" id="card-name"></div>
+                <span class="clover-error" id="card-name-errors" aria-live="polite"></span>
+              </label>
+              <label class="clover-control">
+                <span class="field-label">Expiration</span>
+                <div class="clover-field" id="card-date"></div>
+                <span class="clover-error" id="card-date-errors" aria-live="polite"></span>
+              </label>
+              <label class="clover-control">
+                <span class="field-label">Security code</span>
+                <div class="clover-field" id="card-cvv"></div>
+                <span class="clover-error" id="card-cvv-errors" aria-live="polite"></span>
+              </label>
+              <label class="clover-control">
+                <span class="field-label">Billing ZIP</span>
+                <div class="clover-field" id="card-postal-code"></div>
+                <span class="clover-error" id="card-postal-code-errors" aria-live="polite"></span>
+              </label>
+              <label class="clover-control">
+                <span class="field-label">Billing street</span>
+                <div class="clover-field" id="card-street-address"></div>
+                <span class="clover-error" id="card-street-address-errors" aria-live="polite"></span>
+              </label>
+            </div>
+
+            <div class="clover-disclosure" data-clover-disclosure aria-label="Clover payment security and privacy information"></div>
+
+            <label class="terms-consent">
+              <input type="checkbox" name="acceptedTerms" required>
+              <span>I agree to the <a class="text-link" href="https://staging.ridgebackrv.hiqain.com/terms/" target="_blank" rel="noopener">reservation, cancellation and park terms</a>.</span>
+            </label>
+            <div class="payment-message" role="alert" aria-live="assertive" data-payment-message hidden></div>
+          </section>
+        </form>
+
+        <aside class="surface-card summary-card">
+          <h2>Order summary</h2>
+          <dl class="summary-list">
+            <div class="summary-row"><dt>Nightly rate</dt><dd data-summary-nightly>$65.00 / night</dd></div>
+            <div class="summary-row"><dt>Stay subtotal</dt><dd data-summary-base>$195.00</dd></div>
+            <div class="summary-row"><dt>17% tax</dt><dd data-summary-tax>$33.15</dd></div>
+          </dl>
+          <div class="summary-total"><span class="eyebrow">Total</span><strong data-summary-total>$228.15</strong></div>
+          <button class="btn btn-primary btn-block" type="submit" form="reservation-checkout" data-payment-submit disabled>Pay securely with Clover</button>
+          <p class="fine-print">The final amount is recalculated on our server before Clover processes the charge. Do not refresh or submit again while payment is processing.</p>
+          <p class="fine-print">Returning guest? <a class="text-link" href="/login/?back=quick-order">Sign in</a> to prefill your details.</p>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="footer-brand display">
+          <img src="/media/ridgebackrv-logo.png" alt="">
+        </div>
+        <p class="footer-copy">An urban RV resort in the heart of Houston &mdash; full hookups, gated access, resort comforts.</p>
+        <a class="footer-link main-site-link" href="https://staging.ridgebackrv.hiqain.com/">staging.ridgebackrv.hiqain.com</a>
+      </div>
+      <div>
+        <p class="eyebrow">Explore</p>
+        <ul class="footer-list">
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/#amenities">Amenities</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/terms/">Rules</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/faq/">FAQ</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/about/">About Us</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/contact/">Contact Us</a></li>
+          <li><a class="footer-link" href="https://staging.ridgebackrv.hiqain.com/privacy/">Privacy</a></li>
+        </ul>
+      </div>
+      <div>
+        <p class="eyebrow">Visit</p>
+        <p class="visit-copy">1663 Campbell Road<br>Houston, TX 77055<br><a class="footer-link" href="tel:+12814135064">+1 (281) 413-5064</a></p>
+      </div>
+    </div>
+    <div class="container footer-bottom">&copy; <span data-year></span> Ridgeback RV Park. All rights reserved.</div>
+  </footer>
+</body>
+</html>

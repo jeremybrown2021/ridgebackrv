@@ -1,0 +1,22 @@
+{
+  "name": "ridgeback-booking-clover",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "dev": "node --watch server/index.js",
+    "start": "node server/index.js",
+    "db:migrate": "node server/migrate.js",
+    "db:check": "node server/db-check.js",
+    "test:db": "node --test server/test/mysql-booking-store.integration.test.js",
+    "test": "node --test",
+    "check": "node --check server/index.js && node --check server/database.js && node --check server/migrate.js && node --check server/auth.js && node --check server/mysql-auth-store.js && node --check server/password-reset-mailer.js && node --check server/mysql-booking-store.js && node --check js/site.js && node --check js/clover-checkout.js && node --test"
+  },
+  "dependencies": {
+    "mysql2": "^3.24.2",
+    "nodemailer": "^9.0.5"
+  }
+}
